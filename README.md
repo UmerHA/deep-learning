@@ -1,8 +1,6 @@
 # Deep Learning
 
-Simple repo of my deep learning notebooks.
-
-Currently doing the FastAI course - join me! umer.hayat.adil@gmail.com
+Repo of my deep learning notebooks. Currently doing the FastAI course part 2 - join me! umer.hayat.adil@gmail.com
 
 In `nbs/reproduced`, I have reproduced the fastai course part 2 notebooks, and added commentary for me.
 
@@ -10,4 +8,4 @@ In `nbs/homework`, I have done the lesson homework. I tried to document the enti
 
 Feel free to reach out, if you have any questions!
 ___
-[@UmerHAdil](twitter.com/umerHAdil)
+[@UmerHAdil](https://twitter.com/umerHAdil)
